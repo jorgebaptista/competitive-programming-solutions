@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+# Ignore `bin` dir
+bin/
+# or
+*/bin/*
+
+# Ignore organize folder
+organize/
+*/organize/*
