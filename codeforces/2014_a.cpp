@@ -1,5 +1,5 @@
 /* 
-Solution for problem 2014A. Robin Helps
+Solution for problem 2014A : Robin Helps
 Link of the problem description - https://codeforces.com/problemset/problem/2014/A
 */
 
